@@ -1,0 +1,2 @@
+# parallel < docker-pull-work
+docker pull rabbitmq:management

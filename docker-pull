@@ -1,0 +1,9 @@
+# parallel < docker-pull
+docker pull debian
+docker pull debian:testing
+docker pull golang
+docker pull plantuml/plantuml-server:jetty
+docker pull python
+docker pull rockylinux
+docker pull ubuntu
+docker pull ubuntu:rolling

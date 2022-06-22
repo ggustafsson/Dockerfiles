@@ -1,4 +1,5 @@
 # parallel < docker-pull
+docker pull alpine
 docker pull debian
 docker pull debian:testing
 docker pull golang

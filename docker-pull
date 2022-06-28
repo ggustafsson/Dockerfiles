@@ -6,6 +6,5 @@ docker pull golang
 docker pull plantuml/plantuml-server:jetty
 docker pull python
 docker pull rockylinux
-docker pull rust
 docker pull ubuntu
 docker pull ubuntu:rolling

@@ -5,7 +5,7 @@ docker pull debian:testing
 docker pull golang
 docker pull plantuml/plantuml-server:jetty
 docker pull python
-docker pull rockylinux
+docker pull rockylinux:9
 docker pull rust
 docker pull ubuntu
 docker pull ubuntu:rolling

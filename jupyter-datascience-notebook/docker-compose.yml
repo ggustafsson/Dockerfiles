@@ -1,0 +1,8 @@
+services:
+  jupyter-datascience-notebook:
+    container_name: jupyter-datascience-notebook
+    image: jupyter/datascience-notebook:latest
+    ports:
+      - 8888:8888
+    volumes:
+      - ~/Documents/Jupyter:/home/jovyan/Documents

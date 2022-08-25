@@ -2,6 +2,7 @@
 docker pull alpine:latest
 docker pull debian:latest
 docker pull debian:testing
+docker pull ghcr.io/mermaid-js/mermaid-live-editor:latest
 docker pull plantuml/plantuml-server:jetty
 docker pull rockylinux:9 # XXX: Tag "latest" does not exist!
 docker pull ubuntu:latest

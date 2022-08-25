@@ -1,0 +1,6 @@
+services:
+  mermaid-live-editor:
+    container_name: mermaid-live-editor
+    image: ghcr.io/mermaid-js/mermaid-live-editor:latest
+    ports:
+      - 8080:80

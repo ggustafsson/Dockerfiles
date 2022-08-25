@@ -1,6 +1,6 @@
 services:
-  pi-hole:
-    container_name: pi-hole
+  pihole:
+    container_name: pihole
     image: pihole/pihole:latest
     ports:
       - 53:53/tcp
